@@ -1,0 +1,15 @@
+{
+  "name": "@garafu/takeuchi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "takeuchi",
+  "license": "MIT",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4"
+  },
+  "private": false
+}
